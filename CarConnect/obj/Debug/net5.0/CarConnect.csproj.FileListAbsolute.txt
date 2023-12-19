@@ -1,0 +1,5 @@
+C:\Users\musta\source\repos\CarConnect\CarConnect\obj\Debug\net5.0\CarConnect.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\CarConnect\CarConnect\obj\Debug\net5.0\CarConnect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\source\repos\CarConnect\CarConnect\obj\Debug\net5.0\CarConnect.AssemblyInfoInputs.cache
+C:\Users\musta\source\repos\CarConnect\CarConnect\obj\Debug\net5.0\CarConnect.AssemblyInfo.cs
+C:\Users\musta\source\repos\CarConnect\CarConnect\obj\Debug\net5.0\CarConnect.csproj.CoreCompileInputs.cache
