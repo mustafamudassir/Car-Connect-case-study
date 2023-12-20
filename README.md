@@ -1,4 +1,4 @@
-# CarConnect Project Readme
+# CarConnect Case Study
 
 ## Overview
 The CarConnect project is a robust Car Rental Platform developed on the .NET platform using C#. It features a structured directory hierarchy with packages for entity/model, dao, exception, util, and main.
